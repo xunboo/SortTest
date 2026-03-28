@@ -1,1 +1,1 @@
-A sort alog set 
+A sort algo set 
