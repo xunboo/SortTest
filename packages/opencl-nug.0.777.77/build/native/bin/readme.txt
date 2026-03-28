@@ -1,0 +1,1 @@
+opencl-icd-2.2.1.0-bin compiled with msvc 2017-x64
